@@ -1,0 +1,82 @@
+A Lesser of Two Evils: Unauthorized Data Retrieval
+
+Joshua Costanza
+CSCI 300 Ethics
+11 Nov 2014
+
+
+
+
+
+
+
+
+
+Intro
+
+
+The term “unauthorized data retrieval” has suddenly caught the attention of the public eye.  To some this term gives a positive connotation. To others a more sinister picture gets painted to mind once their brains process the phrase. With even the smallest amount of research done on this broad topic it is easy for one to divulge that there are two main opposing forces when it comes to unauthorized data retrieval. These two forces are complicated, and hard to label. Although many people have placed their own labels on these two forces, it is up to interpreter to decide where they stand. In this essay, one will discover the many forms and faces to this echoing topic of unauthorized data retrieval. 
+
+
+
+
+
+
+
+
+
+
+
+
+Throughout recent years, the term “unauthorized data retrieval” has suddenly caught the attention of the public eye.  To some this term gives a positive connotation. To others a more sinister picture gets painted to mind once their brains process the phrase. With even the smallest amount of research done on this broad topic it is easy for one to divulge that there are two main opposing forces when it comes to unauthorized data retrieval. These two forces are complicated, and hard to label. Although many people have placed their own labels on these two forces, it is up to interpreter to decide where they stand.  Simply put, however, these forces can regularly identified as so: Enforcer and Protector. With these two categories in mind, it is also important to understand that there are many subtitles that can be classified running across both sides of the spectrum. We will discuss these further on after some general knowledge has been applied.  First we must answer some very important questions at hand before we go any further. These questions are, “what is unauthorized data retrieval?” and “how does it effect me?” 
+Although the most important element of this topic is obviously computer and information science, the concept of unauthorized data retrieval has existed since the inception of mankind. The actual term “unauthorized data retrieval” was not actually a popular word for the subject.  This term was initially brought to the public ‘s attention until after the recent events of Edward Snowden’s retrieval of classified information on the U.S. Government. Back in 2013, the Washington Post wrote, “Federal prosecutors have filed a criminal complaint against Edward Snowden, the former National Security Agency contractor who leaked a trove of documents about top-secret surveillance programs, and the United States has asked Hong Kong to detain him on a provisional arrest warrant, according to U.S. officials.”(Washington Post)  The actual phrase itself is mostly self-explanatory. Unauthorized meaning that the person and or system that obtained the information was not actually given permission to access it. Data retrieval is just like it sounds, the retrieval of information from a specific source. After the charges laid to Snowden, merely a human being, it is apparent that computers and information science are not the only elements of unauthorized data retrieval. As stated before, the concept has existed long before such events. Throughout our known history as humans, there are an un-numerable amount of cases in which unauthorized data retrieval has caused a stir among the population.  A good example of such events is the creation of the United Stated of America. Everyone knows that in 1775 tensions between the American Colonies and the British Government had reached a breaking point. Most of these tensions occurred due to the Americans resisting to pay taxes imposed on them by the British parliament. This action, along with several other things caused the British King to become very agitated and eventually try to take complete control of the colonies.  In the late 1700s, people did not communicate with electronic pulses or fiber optic wires in the grounds traveling at high speeds. King George III had to have information on what was going on in the colonies, and obviously a carrier pigeon and a man’s word isn’t enough to keep a king satisfied. The king had other methods for information, and so did the colonies. People in power often use methods such as spying in order to obtain information and twist the plot of the story as they see fit. There were numerous spies in the Revolutionary War, but a notable one would be Benedict Arnold. Benedict Arnold was an American Continental Army general who had been in cahoots with King George III. Without also having counter-intelligence, the American Colonies might have never found out about this, and America could possibly not exist today.  
+	Now that we know unauthorized data retrieval can be classified under the title of espionage, a logical person would ponder if it has many forms. To no surprise, the answer is a big fat yes.  In 1999, Kevin Mitnick was convicted of various computer and information crimes. Mitnick was charged with several counts of possession of unauthorized access devices. Miskick’s first form of “hacking” actually had nothing to do with the conventional hacking of today. He used a screwed up method of phone wire hijacking and social engineering to listen in of phone conversations without the communicating parties’ knowledge. Mitnick was aware of the fact that unauthorized data retrieval can be implemented by many methods. He knew that the average person never pays attention so small details. In fact, in his own book Mitnick writes, “We’re not mindful of the threat, especially in the Western world. In the United States most of all, we’re not trained to be suspicious of each other.”(Mitnick 9). So, Kevin Mitnick had access to a bunch of random data that was not willfully given to him. To some this might seem like a tiny ordeal, but to others this was definitely something to be outraged about. Since the data Mitnick stole was owned by people of authority and power, this theft of  information was considered highly valuable and not for the public eye. Due to the information’s importance, what Mitnick did was considered by the Federal Judicial system to be a severe crime. There seems clearly to be a thin line drawn on who can cross who. Mitnick describes a term called “Social Engineer”, which basically describes a person who can bend and mold the social situation that surrounds them in order to obtain the outcome that they need. It is apparent that both the US Government and the crackers both use this tactic of Social Engineering. Earlier on we learned about the modern Edward Snowden and his access on data held by the Government. Snowden, like Benedict Arnold, is accused of espionage and retrieval of data from an un-authorized source.  Unlike Arnold, however, Snowden claims to have alternative motives as to why he had access to these files. Snowden, a former System Admin for the CIA, had become accustomed to hearing information on a daily basis of which he was sworn not to share.  Eventually the amount of absurd information of which Snowden’s eyes had to cover had begun to sicken Him.  
+Edward Snowden claims to have seen and heard some things that would make the average civilian shiver in their boots. He eventually felt so bothered by what He knew, He felt obliged to have to share it with the public. On May 20th 2013, Snowden arrived in Hong Kong with four laptop computers that granted him access into some of the US Government’s most classified secrets. Snowden divulged a secret court order that showed that the US Government had forced telecoms giant Verizon to hand over phone records of millions of Americans. On June 6th 2013 Snowden then revealed the NSA owned program “PRISM” which supposedly gives direct access to data held my multiple big name internet corporations. At the defense of the US Government, the reason behind these methods of espionage was so that the NSA, FBI, CIA and other governmental organizations could keep track on terrorist movement. President Obama at the time had stated, “You can’t have 100% security, and also have 100% privacy and zero inconvenience.” (Obama) This statement made by president Obama may have some validity to it, but is it actually true? Do these organizations really need to be collecting huge amounts of data on virtually everyone in the United States in order to keep us safe? Surprisingly enough the answer is no! To a specific degree, the Government has always had the right to investigate, but over the recent years the “degree” of  spying of which is considered acceptable  by big brother has dramatically increased. This increase definitely did not spawn out of the will of the people, but big brother himself rather.  The reason why it is not ok to keep detailed record of data on everyone that includes almost every specific detail of their life is because no man should ever have absolute knowledge about every other man. Yes, to a specific degree, the US Government should be looking for specific internet traffic keywords like “bomb” or “anthrax” in order to stop serious crimes before they start. The problem the public has encountered, however, is that now a days anyone who is born into this world can have their every detail of their life recorded by data held somewhere in a unknown office. This data can contain a surprisingly large and eerie amount of personal and private information about someone which the person could, and most likely does not even not know is being recorded about them. The real issue at hand is that the US Government is not just targeting foreign countries and known terrorists in order to siphon its information. Big brother goes out of his way to siphon almost all data and information from anyone in America. As science fiction as this sounds it is actually quite accurate. The NSA’s aforementioned program PRISM can literally give itself backdoor access to virtually any server anywhere in America and at any time. The common argument here that a lot of radicals like to use is “well IM not a terrorist….why does it matter if they are spying on ME….I’m just old and boring”. Yes this may be very much true, but the sad reality is that these systems search or key words and associations of calls, emails, texts, FaceTimes, anything that gets passed through the underbelly of the internet. All it would take is for one small mistake and the person under surveillance could be classified as a terrorist. So what if someone who has ties to a known underground pool of hackers finds himself accidentally calling your cellphone. Boom, you are immediately red-flagged by big brother and now you are own your own. This technique gives the US Government the ability to keep tabs on every personal relationship someone made in their life. It also keeps tabs on every little mistake that someone could have made which could possibly give them the associative property of a “terrorist” It is not ethical in any way, shape or form for one group of people to have almost infinite data on almost every man on the planet.
+On the flip side, the US government does reserve the right to obtain information via data encryption or a wire-tap if a warrant is issued. Although there are rules on what the government can do to the people, there are some troubles as well. First of all, obtaining a warrant now a days is essentially a waiting game. In reality, if a police force or investigatory agency really wanted to, they simply take a small sample of evidence needed in order to obtain said warrant. With enough time and effort the aforementioned forces could easily attain a warrant. Another problem with this system is that there is evidence now, due to Snowden’s leaks, that these forces are obtaining information from the public without a warrant and without the victims knowledge. This means that, if needed, the government doesn’t necessarily need to play by the rules. It is up to the interpreter to decide whether or not this is okay on a moral standpoint, but it is certain that this is not alright in a legal point of view. 
+It seems only fair that unauthorized data retrieval should be scrutinized no matter who partakes in it. Much like allowing half of a kinder-garden class of children the privilege to do something that the other half cannot, this way of law can only cause upset to one side or the other. After a careful examination of how the current system works, it is clear that it is illogical and in need for change. If we allow the government to have eternal power, it will eventually stop listening to the voices of the citizens and only do what they feel right. Lance J. Hoffman, writer of “Building in Big Brother”, wrote “ FBI director Lewis Freech said in September 1994 that if Clipper failed to gain acceptance and private encryption technologies became more wide spread, He would have no choice but to press congress to pass legislation that provided law enforcement access to all encrypted communications. This is the first Administration hint at a future governmental policy that could result in the banning of non-governmental, unbreakable encryption methods.” (Hoffmann) Even ten years ago the FBI director already predicted that they would possibly not allow the public the ability to totally encrypt their data. At this rate, anything else could happen. America was not founded on the Government itself, but rather the voices of the people. This is clear disrespect to the public and to the ideas of the constitution and establishment itself. Much like the American Revolution King George’s strong opinion would not be swayed by any external force. In the same way, the Government of today will not wish to change either. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sources
+
+. The Art of Deception, Controlling the Human Element of Security; Kevin D. Mitnick & William L. Simon
+
+	Mitnick, Kevin D., and William L. Simon. The Art of Deception; Controlling the Human Element of Security. Indianapolis, IN: Wiley Pub., 2002. Print.
+
+. Hacker’s Delight; Henry S. Warren, Jr.
+
+	Warren, Henry S. Hacker's Delight. Boston: Addison-Wesley, 2003. Print.
+
+. Building Big Brother, The Cryptographic Policy Debate; Lance J. Hoffman
+
+	Hoffman, Lance J. Building in Big Brother: The Cryptographic Policy Debate. New York: Springer-Verlag, 1995. Print.
+
+.  www.arstechnica.com/series/nsa-leaks/
+
+	"ArsTechnica." NSA Leaks. Ars Technica, n.d. Web. 15 Oct. 2014.
+
+. Domestic Surveillance and Mind Control Technology; www.rense.com
+
+		"The NSA's Mission and the NSA's Domestic Intelligence Operation." Incredible Domestic Surveillance and Mind Control Technology. Rense, n.d. Web. 15 Oct. 2014.
+
+. Washington post (add actual cite here)
+	- http://apps.washingtonpost.com/g/documents/world/us-vs-edward-j-snowden-criminal-complaint/496/
+
